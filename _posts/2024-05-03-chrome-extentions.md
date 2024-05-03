@@ -1,12 +1,12 @@
 ---
-show_subscribe: false
-	
-title: Chrome 好用的插件列表
-tags:
+show_subscribe: false	
+
+title: Chrome浏览器插件
+tags: 
     - Chrome
-    - Extention
-    - 工具
+    - Extensions
 ---
+
 
 ## 插件
 
