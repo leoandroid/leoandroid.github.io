@@ -4,16 +4,19 @@ show_subscribe: false
 title: '上传 Android Library 到 Maven Center'
 date: 2023-12-06
 modified: 2023-12-08
-excerpt: '创建一个本地的 Android Library, 发布到 Maven 的流程'
+excerpt: '[X] 创建一个本地的 Android Library, 发布到 Maven 的流程'
 tags:
-  - Android
-  - Maven
+  - 废弃
+
 ---
 
+`过时废弃，声明如下`{:.error}
 
-> 版本：1.0.1
-> 
-> 修改日期: 2023-12-08
+<a href="https://central.sonatype.org/faq/what-happened-to-issues-sonatype-org/">
+    <font color=red>
+    On Jan 9th, 2024 we announced issues.sonatype.org will be decommissioned soon. As part of the decommissioning process we removed the access to issues.sonatype.org, and we replaced our Jira ticketing system with a Zendesk email intake method. To open a support ticket with us email Central Support and follow-up in the email thread. To help us get back to you faster, please do not include previous replies in your follow-up messages.
+    </font>
+</a>
 
 ## 文档
 1. [Gradle signing plugin](https://docs.gradle.org/current/userguide/signing_plugin.html)

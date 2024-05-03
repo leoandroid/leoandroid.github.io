@@ -7,10 +7,6 @@ excerpt: '1：AOSP 下载/编译 2：将AOSP module 导入 AndroidStudio'
 tags:
   - Android
   - AOSP
-  - XCode 13.2.1
-  - MacOS 14.1
-  - android-12.0.0_r3
-  - 整理分享
 ---
 
 

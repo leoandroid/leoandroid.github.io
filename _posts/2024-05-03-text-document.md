@@ -3,8 +3,8 @@ show_subscribe: false
 
 title: TeXt 文档
 tags:
-  - 文档
   - jkeyll
+  - 文档
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
