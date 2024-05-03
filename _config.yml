@@ -38,7 +38,7 @@ timezone: HK # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 author:
   type      : # "person" (default), "organization"
   name      : Leo
-  url       :
+  url       : https://leoandroid.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : 水滴石穿
   email     : leo.zjl.me@gmail.com

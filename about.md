@@ -1,9 +1,10 @@
 ---
 layout: article
 key: page-about
+article_header:
+  type: cover
+  image:
+    src: assets/images/about.jpg
 ---
-
-![Background](assets/images/background.webp)
-
-> Leo, an android developer.
+<!-- ![Background](assets/images/background.jpg) -->
 
