@@ -2,7 +2,6 @@
 title: 'MacOS-14.1 下载/编译/阅读 AOSP'
 date: 2023-12-08
 excerpt: '1：AOSP 下载/编译 2：将AOSP module 导入 AndroidStudio'
-permalink: /posts/2023/12/08/AOSP/
 tags:
   - Android
   - AOSP

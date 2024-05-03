@@ -2,10 +2,9 @@
 title: 'RxJava Wiki'
 date: 2023-12-12
 excerpt: 'RxJava 文档翻译总结'
-permalink: /posts/2023/12/12/RxJava/
 tags:
   - RxJava
-  - 翻译
+  - 文档
 ---
 
 
