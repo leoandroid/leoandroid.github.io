@@ -1,4 +1,6 @@
-# Leo 的个人博客
+# Leo's Blog
+
+## Dependence applications version
 
 | Application | Version |
 | :---------: | :-----: |
@@ -8,7 +10,8 @@
 | jekyll      | 4.3.3   |
 | Bundler     | 2.5.9   |
 
-## 运行
+## Run
+
 ```shell
 # install plugin and depences
 bundle install
@@ -18,4 +21,15 @@ ps aux |grep jekyll |awk '{print $2}' | xargs kill -9
 bundle exec jekyll serve --livereload
 # open chrome and load the local jekyll
 open -n -a "Google Chrome" "http://localhost:4000/"
+```
+
+## Issue
+If the ruby install by homebrew has confict with the mac's ruby, add the below code to `~/.zshrc`,
+then run `source ~/.zshrc`.
+
+```shell
+if [ -d "/opt/homebrew/opt/ruby/bin" ]; then
+ export PATH=/opt/homebrew/opt/ruby/bin:$PATH
+ export PATH=`gem environment gemdir`/bin:$PATH
+fi 
 ```
