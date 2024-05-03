@@ -1,4 +1,6 @@
 ---
+show_subscribe: false	
+
 title: '上传 Android Library 到 Maven Center'
 date: 2023-12-06
 modified: 2023-12-08

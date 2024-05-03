@@ -1,4 +1,6 @@
 ---
+show_subscribe: false
+	
 title: Chrome 好用的插件列表
 tags:
     - Chrome
