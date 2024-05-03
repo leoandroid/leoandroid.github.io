@@ -69,6 +69,12 @@ paths:
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
+## Feed
+feed:
+  posts_limit: 20
+  categories:
+    - news
+    - updates
 
 ## => Post
 ##############################
@@ -221,7 +227,7 @@ defaults:
 ## => Plugins
 ##############################
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
