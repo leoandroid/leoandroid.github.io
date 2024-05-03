@@ -23,7 +23,7 @@ bundle exec jekyll serve --livereload
 open -n -a "Google Chrome" "http://localhost:4000/"
 ```
 
-## Issue
+## Issue solution
 If the ruby install by homebrew has confict with the mac's ruby, add the below code to `~/.zshrc`,
 then run `source ~/.zshrc`.
 
